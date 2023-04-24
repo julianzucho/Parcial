@@ -105,6 +105,7 @@ body{
     
     background-color:#d3d3d3 ;
     border-radius: 10px;
+    box-shadow: #ffe100;
 }
 .imagen{
     position: relative;
